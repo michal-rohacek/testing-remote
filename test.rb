@@ -7,4 +7,8 @@ class Test
   def third
     puts 'third commit'
   end
+
+  def fourth
+    puts 'aaaaaaaa'
+  end
 end

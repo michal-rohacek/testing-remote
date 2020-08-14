@@ -4,4 +4,7 @@ class Test
     puts 'success'
   end
 
+  def third
+    puts 'third commit'
+  end
 end
